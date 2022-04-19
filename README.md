@@ -1,0 +1,2 @@
+# Melody
+Melody Discord bot
